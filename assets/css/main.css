@@ -1685,3 +1685,11 @@ input, select, textarea {
 .about-img {
 	max-width: 100%;
 }
+
+.work-div {
+	display:flex;
+}
+
+.work-div h2 {
+	width: 50%;
+}
